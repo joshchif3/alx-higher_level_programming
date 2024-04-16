@@ -1,16 +1,16 @@
 #!/usr/bin/python3
 """
-subclass from List base class
+===========================
+Module with class MyList
+===========================
 """
 
 
 class MyList(list):
-    """a subclass of list base class"""
-    def __init__(self):
-        """object constructor"""
-        super().__init__()
-        """Access the methods of the Base class"""
+    """Class with method print_sorted"""
+    pass
 
     def print_sorted(self):
-        """print_sorted method"""
-        print(sorted(self))
+        """Methot that sorted a list"""
+
+        print(sorted(list(self)))
