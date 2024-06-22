@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 0x0F. Python - Object-relational mapping
 
 
@@ -194,3 +195,6 @@ Results must be sorted in ascending order by cities.id.
 Results must be displayed as they are in the example below.
 Your code should not be executed when imported.
 
+=======
+MY Python files
+>>>>>>> 0cd0ceca55144460d2857a9ddeb503eb6cb486bb
